@@ -1,0 +1,18 @@
+-->
+Codesandbox basics:-
+_______________________________________________
+
+[package.json]  --> it should be present when you are working with codesandbox.
+
+[npm install   --save-dev parcel ]  --> install if parcel not exist.
+
+[npm start ]    -->to start editor/preview
+
+steps 2:-
+commit and push on github from codesandbox everytime-->right click on repositiory on codesandbox top. then [open branch on github] , -->then pull from the github account-->and then merge in github account.
+//conclusion:- this will be pulled(codesandbox code) from github 
+
+-->
+Basics:-
+_______________________________________________
+-->Every time cookies sent to server and then come back to browser.
