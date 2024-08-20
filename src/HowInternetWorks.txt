@@ -53,8 +53,8 @@ b.	External js  - cached
 32.	<Script> console.log()</script>
 33.	Html html html html html script downloaded downloaded downloaded downloaded executed executed executed executed executed html html html
 34.	Block rendering
-35.	Async and Defer https://www.thatjsdude.com/images/asyncVsDefer.jpg
- .	<script href=”index.js” async>
+35.	Async and Defer https://www.thatjsdude.com/images/asyncVsDefer.jpg -->avoid async,use defer to understand check image.
+ .	<script href=”index.js” async>  
 a.	<script href=”index.js” defer>
 36.	Why should the page speed be fast
  .	In order to reduce ad spends
@@ -63,14 +63,19 @@ b.	For ranking in google search
 c.	Use experience
 37.	How to increase the page speed
  .	Reduce the size of JS and Css pages
-a.	Minify and uglify your js and css
+a.	Minify(do this online,like remove white space) and uglify(make names smaller not long) your js and css
 b.	Make a size limit of 200kb max for the images
 c.	https://tinypng.com/ To compress the images
 d.	You should use WEBP format in order to add your images
 e.	Caching the images and js and css
 i.	Browser Cache
 ii.	CDN Caching
-f.	Use sprite images
+f.	Use sprite images (you can generate this online),mostly it works for logo not for large images.
 g.	Font awesome or icomoon in order use icons instead images
-h.	Lazyloading of the images
+h.	Lazyloading of the images --load down image when scroll,not on first go,use js to add "src" or source of the image.
+
+
+-->so the principles behind all these tools are:-
+decrease network calls + decrease CS&JS file sizes + decrease asset sizes + store in browser cache + load when needed
+
 
