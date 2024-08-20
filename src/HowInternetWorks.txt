@@ -1,0 +1,76 @@
+1.	How the internet works.
+2.	To get the Ip address
+3.	Check for 4 types of cache
+4.	Check for caching
+5.	Browser Cache
+6.	OS cache would be there commands like gethostname
+7.	Router cache
+8.	ISP cache
+9.	4 types of cache in order to reduce latency
+10.	You would have to go to your dns server for checking the ip address
+11.	You will initiate the connection to the DNS server
+12.	www.google.com
+13.	Base DNS server google.com
+14.	www-> google -> .com -> www.google.com ->
+15.	You would initiate the connection to the server having the data for your website
+16.	TCP/IP Connection with the server
+17.	3 way handshake
+18.	What happens in 3 way handshake
+a.	Syn package to the server (are you open for connection)
+b.	SYN/ACK package back to the client suggesting I am open for connection
+c.	Server will send an acknowledgement for the syn/ack
+19.	Browser is going to a get call in order to get the data http request
+20.	Server could respond with
+ .	HTML
+a.	JSON
+b.	XML
+21.	In order to store data on the client end there are two things that can be used
+ .	Cookie - 4kb of data, everytime server client interacts with each other cookies are going to be sent between server and client, Cookies can be set by your backend onto the frontend.
+a.	Local storage - it is going to give you 5mb of data storage
+b.	Session Storage
+22.	Server would respond back with the data
+ .	1xx - info
+a.	2xx - success
+b.	3xx - redirect
+c.	4xx - client errors
+d.	5xx - server errors
+23.	Browser will receive and html document
+24.	Parse the html line by line
+25.	DOM - Document object Model
+26.	Tree like structure which is formed from your html
+27.	Script tag is encountered
+28.	Css tag is encountered
+ .	Html
+Head		body
+P.color:red	div
+29.	The css would be added to each html element and cssom
+a.	CSSOM - DOM + CSS
+30.	JS or css are going to be downloaded and then they are going to executed
+31.	What are the different ways in which js can be added onto your website
+ .	Inline - inline would be downloaded with html
+a.	Script tag
+b.	External js  - cached
+32.	<Script> console.log()</script>
+33.	Html html html html html script downloaded downloaded downloaded downloaded executed executed executed executed executed html html html
+34.	Block rendering
+35.	Async and Defer https://www.thatjsdude.com/images/asyncVsDefer.jpg
+ .	<script href=”index.js” async>
+a.	<script href=”index.js” defer>
+36.	Why should the page speed be fast
+ .	In order to reduce ad spends
+a.	Page speed is important for seo Purpose
+b.	For ranking in google search
+c.	Use experience
+37.	How to increase the page speed
+ .	Reduce the size of JS and Css pages
+a.	Minify and uglify your js and css
+b.	Make a size limit of 200kb max for the images
+c.	https://tinypng.com/ To compress the images
+d.	You should use WEBP format in order to add your images
+e.	Caching the images and js and css
+i.	Browser Cache
+ii.	CDN Caching
+f.	Use sprite images
+g.	Font awesome or icomoon in order use icons instead images
+h.	Lazyloading of the images
+

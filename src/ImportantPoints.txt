@@ -16,5 +16,7 @@ commit and push on github from codesandbox everytime-->right click on repositior
 Basics:-
 _______________________________________________
 -->Every time cookies sent to server and then come back to browser.
+-->How Internet works :-https://docs.google.com/document/d/147HrCoLJ_NE8J3qfAO5NKyDh0FJP7uwEftbcFy4_oww/edit?pli=1
+
 
 Ram G
