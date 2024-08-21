@@ -79,3 +79,9 @@ h.	Lazyloading of the images --load down image when scroll,not on first go,use j
 decrease network calls + decrease CS&JS file sizes + decrease asset sizes + store in browser cache + load when needed
 
 
+-->url for the document:-
+https://docs.google.com/document/d/147HrCoLJ_NE8J3qfAO5NKyDh0FJP7uwEftbcFy4_oww/edit?pli=1
+
+
+
+
