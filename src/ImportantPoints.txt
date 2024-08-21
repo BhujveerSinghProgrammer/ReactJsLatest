@@ -54,4 +54,13 @@ But for current version which is HTML 5 ,we use only:-<!DOCTYPE html>
     2)Developer Efficiancy
     3)Assessiblity
 -->
+HTML 5 Introduces:-
+1.<Header>
+2.<footer>
+3.<main>
+4.<aside>
+5.<article>
+6.<section>
+7.<nav>
 
+but before that we built whole web site by using <div> tag only.
