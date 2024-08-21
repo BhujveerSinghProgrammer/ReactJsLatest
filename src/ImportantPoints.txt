@@ -27,3 +27,5 @@ _______________________________________________
 Answer:- actualy its not async ,we load jquery library first then load all the code after that.
 Ram G
 
+--> meta tag:- meta tag would be read by SEO.   
+
