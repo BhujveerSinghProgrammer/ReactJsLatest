@@ -50,7 +50,10 @@ But for current version which is HTML 5 ,we use only:-<!DOCTYPE html>
     you could use any tag to do anything else from what its created for,
 
     But you should use sematically correct HTML
-    1)SEO purpose
+    1)SEO purpose (GoogleBOT or web crawlers):- For most sites, Googlebot shouldn't access your site more than once every few seconds on average. However, due to delays it's possible that the rate will appear to be slightly higher over short periods.
+    Googlebot was designed to be run simultaneously by thousands of machines to improve performance and scale as the web grows. 
+
+
     2)Developer Efficiancy
     3)Assessiblity
 -->
