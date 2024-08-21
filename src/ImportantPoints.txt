@@ -35,3 +35,23 @@ we use this given line on top of html page for html 4.0:-
 But for current version which is HTML 5 ,we use only:-<!DOCTYPE html>
 
 -->
+
+<!-- Where is the Title shows:--
+    1.on tab bar 
+    2.in bookmark 
+    3.in history  
+    4.search engine results- where the title is shown,when we search anything in google then the title shown.
+-->
+
+<!--
+    current version is HTML 5,
+    Html is never going to give you error,
+    you can skip any tag,
+    you could use any tag to do anything else from what its created for,
+
+    But you should use sematically correct HTML
+    1)SEO purpose
+    2)Developer Efficiancy
+    3)Assessiblity
+-->
+
