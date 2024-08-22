@@ -29,7 +29,14 @@ Ram G
 
 --> meta tag:- meta tag would be read by SEO.   
 
+//************Important*************
+-->Dont use !important,its not good practice.
+
 -->Div is called Block level element,it has width and height.
 -->Inline elements :- does not take width and height like <span></span>,<h1> etc.
+usually if we take 2 div's then it shows first div then down to it it shows second div,
 
--->supr
+-->but if we take inline element like <span> it comes/shows in inline,
+and if we want 2 div in inline then we can take 2 <span>(or empty span) and set property like given below:-
+
+display: inline-block; // this will make it block(div) and also be available in one inline.
