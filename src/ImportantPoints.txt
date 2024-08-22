@@ -37,6 +37,34 @@ Ram G
 usually if we take 2 div's then it shows first div then down to it(one below other), it shows second div,
 
 -->but if we take inline element like <span> it comes/shows in inline,
-and if we want 2 div in inline then we can take 2 <span>(or empty span) and set property like given below:-
+and if we want 2 div in inline then we will use:=
+display: inline-block; // this will make it block(div) and also be available in one inline (next to each other).
+.........
+.box {
+  width: 33.33%;
+  height: 200px;
+  background: #ffff00;
+  float: left;
+  display: inline-block; // for inline 
+}
 
-display: inline-block; // this will make it block(div) and also be available in one inline.
+.one {
+  background: red;
+}
+
+.two {
+  background: blue;
+}
+
+.three {
+  background: green;
+}
+
+
+and
+
+        <div class="one box">one</div>
+        <div class="two box">two</div>
+        <div class="three box">three</div>
+
+......................................................................................
