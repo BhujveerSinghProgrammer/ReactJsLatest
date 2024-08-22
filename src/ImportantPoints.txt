@@ -28,4 +28,8 @@ Answer:- actualy its not async ,we load jquery library first then load all the c
 Ram G
 
 --> meta tag:- meta tag would be read by SEO.   
--->Hii
+
+-->Div is called Block level element,it has width and height.
+-->Inline elements :- does not take width and height like <span></span>,<h1> etc.
+
+-->supr
