@@ -1,0 +1,207 @@
+html {
+  font-size: 10px;
+}
+
+#app {
+  background: purple;
+}
+
+@media (min-width: 768px) and (max-width: 1048px) {
+  html {
+    font-size: 7.5px;
+  }
+
+  #app {
+    background: red;
+  }
+}
+
+@media (min-width: 1048px) and (max-width: 1300px) {
+  html {
+    font-size: 9px;
+  }
+  #app {
+    background: yellow;
+  }
+}
+
+/* mobile */
+@media (min-width: 320px) and (max-width: 768px) {
+  html {
+    font-size: 5px;
+  }
+  #app {
+    background: green;
+  }
+}
+
+/* } 100
+
+/* div {
+  border: 1px solid red;
+  width: 200px;
+  height: 200px;
+  background: orange;
+} */
+
+.cl {
+  border: 1px solid red;
+  width: 20rem !important;
+  height: 20em;
+  font-size: 10px;
+  /* 
+  20rem 20*16  
+  x*16= 200
+  x = 200/16
+  x=12.5
+  */
+  background: yellow;
+  margin-bottom: 60px;
+  padding: 10px;
+  box-sizing: content-box;
+}
+/* 10 + 10 = 20*/
+
+.parent .pink {
+  background: pink;
+  width: 400px;
+  height: 20em;
+  font-size: 20px;
+}
+/* 10 */
+
+.grand .parent .blue {
+  background: blue;
+  margin-top: 40px;
+}
+/* 10 + 10 + 10 +1 = 30*/
+
+.red {
+  background: red;
+}
+
+.pink {
+  background: black;
+}
+
+.in {
+  width: 100px;
+  background: red;
+  height: 200px;
+  display: inline-block;
+}
+/* 10 */
+
+/* 
+in order to apply styling to an element 
+you would want to get the particular element
+specificity that should be available in css as well in order
+ to find an html element
+
+ . - class 
+ # - id
+
+ .cl {
+
+ }
+
+ #app{
+
+ }
+
+ element 
+
+ div {
+
+ }
+
+.parent .child {
+}
+
+ specificity prinicpal says
+
+ id- 100
+ class - 010
+ element - 001
+*/
+
+/* box model in css 
+
+box in css through which the whole css is drivel
+
+margin - if you want to give some distance between two boxes you would use margin
+top
+left
+right
+bottom
+margin-top
+margin: top right bottom left
+
+padding-distance between the content and the border
+border
+width/height(dimensions)
+
+margin-collapse - margin-top and margin-bottom take max margin
+
+*/
+.parent {
+  width: 10vw;
+  height: 10vh;
+}
+
+.box {
+  width: 33.33%;
+  height: 200px;
+  background: #ffff00;
+  float: left;
+  box-sizing: border-box;
+}
+
+.one {
+  background: red;
+}
+
+.two {
+  background: blue;
+}
+
+.three {
+  background: green;
+}
+
+/* float  */
+
+/* 
+Positions that are there in css
+Units in css
+Flex is css 
+
+
+Position
+
+1) Relative
+2) Absolute
+3) Fixed
+4) Sticky
+
+position: relative
+top
+left
+right
+bottom
+
+units in css
+
+px
+rem - relative to the fontsize of the parent element
+parent element = html
+
+2rem = 2*fontsize of parent
+3rem = 3* fontsize of parent
+em
+%
+vh
+vw
+
+
+*/
