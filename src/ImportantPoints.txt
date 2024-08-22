@@ -34,7 +34,7 @@ Ram G
 
 -->Div is called Block level element,it has width and height.
 -->Inline elements :- does not take width and height like <span></span>,<h1> etc.
-usually if we take 2 div's then it shows first div then down to it it shows second div,
+usually if we take 2 div's then it shows first div then down to it(one below other), it shows second div,
 
 -->but if we take inline element like <span> it comes/shows in inline,
 and if we want 2 div in inline then we can take 2 <span>(or empty span) and set property like given below:-
