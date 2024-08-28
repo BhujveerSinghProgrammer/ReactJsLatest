@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+.sibling-element {
+  background: #f2f2f2;
+  padding: 10px;
+}
+
+.main-element {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: yellow;
+  padding: 10px;
+}
+
+.parent-element {
+  position: relative;
+  background-color: #81adc8;
+  padding: 10px;
+  top: 10px;
+}
+
+/* 
+postion absolute
+
+I am going to be positioned based on the last positioned parent or based on the body if there is not last positioned element
+
+
+*/

@@ -1,0 +1,22 @@
+.sibling-element {
+  background: #f2f2f2;
+  padding: 10px;
+  border: 1px solid #81adc8;
+}
+
+.main-element {
+  position: fixed;
+  top: 10px;
+  left: 0px;
+  background-color: yellow;
+  padding: 10px;
+}
+
+.parent-element {
+  padding: 10px;
+  background-color: #81adc8;
+}
+
+html {
+  height: 800px;
+}

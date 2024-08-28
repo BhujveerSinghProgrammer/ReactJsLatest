@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+}
+
+#app {
+  width: 400px;
+  height: 400px;
+  background: yellow;
+  position: relative;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  background: red;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.box::after {
+  content: "<";
+  display: block;
+}
+
+.box::before {
+  content: "before";
+  display: block;
+}
+
+/* .box:hover {
+    transform: scale(1.2);
+  } */
+
+/* psuedo elements in css 
+  
+  before after hover
+  
+  vh
+  vw
+  
+  */
