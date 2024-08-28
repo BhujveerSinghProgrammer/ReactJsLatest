@@ -35,7 +35,7 @@ Answer:- actualy its not async ,we load jquery library first then load all the c
 -->Inline elements :- does not take width and height like <span></span>,<h1> etc.
 usually if we take 2 div's then it shows first div then down to it(one below other), it shows second div,
 
--->but if we take inline element like <span> it comes/shows in inline,
+-->Important:- but if we take inline element like <span> it comes/shows in inline,
 and if we want 2 div in inline then we will use:=
 display: inline-block; // this will make it block(div) and also be available in one inline (next to each other).
 .........
@@ -67,4 +67,4 @@ and
         <div class="three box">three</div>
 
 ......................................................................................
-Date 22-08-2024
+Date 27-08-2024

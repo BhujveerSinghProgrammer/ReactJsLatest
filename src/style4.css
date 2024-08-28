@@ -1,0 +1,12 @@
+.sibling-element {
+	background: #f2f2f2;
+	padding: 10px;
+}
+
+.main-element {
+    position: relative;
+    top: 5px;
+    left: 20px;
+    background-color: yellow;
+    padding: 10px;
+}
