@@ -32,8 +32,8 @@ PS E:\SCLR\ReactJS\ReactJs1PointO> npx create-react-app myapp
 
 7.To start(http://localhost:3000/):- PS E:\SCLR\ReactJS\ReactJs1PointO\myapp>npm start
 
-8.Pedning:-npm run build:-
+8.
 
 9.
 
-10.
+10.Pedning:-npm run build:-
