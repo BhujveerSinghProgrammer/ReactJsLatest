@@ -30,10 +30,24 @@ or
 
 PS E:\SCLR\ReactJS\ReactJs1PointO> npx create-react-app myapp
 
-7.To start(http://localhost:3000/):- PS E:\SCLR\ReactJS\ReactJs1PointO\myapp>npm start
+7.To start(http://localhost:3000/):-
+PS E:\SCLR\ReactJS\ReactJs1PointO\myapp> npm start
+ or
+PS E:\SCLR\ReactJS\ReactJs1PointO\myapp> npm run start
 
-8.
+8.How to go to another folder in terminal :- cd myapp 
 
 9.
 
-10.Pedning:-npm run build:-
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.Pedning:-npm run build:-
+
