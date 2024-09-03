@@ -31,7 +31,9 @@ PS E:\SCLR\ReactJS\ReactJs1PointO\myapp> npm start
  or
 PS E:\SCLR\ReactJS\ReactJs1PointO\myapp> npm run start
 
-8.How to go to another folder in terminal :- cd myapp 
+8.How to go to another folder in terminal :-  cd myapp 
+
+8.1 to back folder in terminal:-   cd ..
 
 9. You can also go to Node.js command prompt directly to run and create react application.
 *********************************************************************************************************
@@ -45,8 +47,8 @@ Note:- 3 Simple steps to start with creation of react app:-
 
 ************************************************************************
 ************************************************************************
-==>1.to install all the dependencies in your project use:-
-  just add anything in your application's package.json like:-
+==>1.to install all the dependencies or adding new package in your project use:-
+  just add anything in your application's "dependencies" -->package.json  like:-
   
 "web-vitals": "^2.1.4"
 "react-scripts": "5.0.1"
