@@ -1,0 +1,39 @@
+working with VS Code:-
+__________________________________
+steps:-
+1.Install Node js- npm will automatically installed- so that we can use js without browser.
+--to check node :- open windows powershell + node --version +enter
+--to check npm :-open windows powershell + npm --version +enter
+
+2.Install Vs Code- check/select all the additional settings while installing this.
+
+3.React Developer Tools -->its chrome extension,add this to the chrome.
+
+4.Go to any folder where you want to create application +right click + open with vs code
+
+
+5.Add some Important Extensions in Vs Code:- 
+1)Thunder Client --> for replacement of Postman-to test Api's.
+2)Live Server   --> to visualize static pages
+2)ES7 React/Redux/GraphQL/React-Native snippets --> for shortcut,time saving
+3)Bracket Pair Colorizer -->it shows where Brackets are closing,to better understanding
+
+6.Go to Terminal in Vs Code:-
+
+PS E:\SCLR\ReactJS\ReactJs1PointO> npm install create-react-app
+
+or
+
+PS E:\SCLR\ReactJS\ReactJs1PointO>npm install create-react-app myapp
+
+or
+
+PS E:\SCLR\ReactJS\ReactJs1PointO> npx create-react-app myapp
+
+7.To start(http://localhost:3000/):- PS E:\SCLR\ReactJS\ReactJs1PointO\myapp>npm start
+
+8.
+
+9.
+
+10.
