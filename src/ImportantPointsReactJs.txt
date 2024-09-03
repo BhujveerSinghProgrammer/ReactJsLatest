@@ -11,7 +11,6 @@ steps:-
 
 4.Go to any folder where you want to create application +right click + open with vs code
 
-
 5.Add some Important Extensions in Vs Code:- 
 1)Thunder Client --> for replacement of Postman-to test Api's.
 2)Live Server   --> to visualize static pages
@@ -35,16 +34,15 @@ PS E:\SCLR\ReactJS\ReactJs1PointO\myapp> npm run start
 8.How to go to another folder in terminal :- cd myapp 
 
 9. You can also go to Node.js command prompt directly to run and create react application.
+*********************************************************************************************************
+*********************************************************************************************************
+Note:- 3 Simple steps to start with creation of react app:-
+1.check for node js in your system
+2.check for npm in your system
+3.go to Node.js command prompt or in vs code terminal
+4.use npx create-react-app nameofapp
+5.E:\SCLR\ReactJS\ReactJs1PointO\myapp> npm start or E:\SCLR\ReactJS\ReactJs1PointO\myapp> npm run start
 
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.Pedning:-npm run build:-
+************************************************************************
+************************************************************************
 
