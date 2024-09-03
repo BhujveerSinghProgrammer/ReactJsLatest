@@ -45,4 +45,15 @@ Note:- 3 Simple steps to start with creation of react app:-
 
 ************************************************************************
 ************************************************************************
+==>1.to install all the dependencies in your project use:-
+  just add anything in your application's package.json like:-
+  
+"web-vitals": "^2.1.4"
+"react-scripts": "5.0.1"
 
+and run given command in terminal
+
+E:\SCLR\ReactJS\ReactJs1PointO\myapp>npm install
+
+
+==>2.
