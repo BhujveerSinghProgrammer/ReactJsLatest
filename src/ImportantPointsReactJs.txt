@@ -2,8 +2,8 @@ working with VS Code:-
 __________________________________
 steps:-
 1.Install Node js- npm will automatically installed- so that we can use js without browser.
---to check node :- open windows powershell + node --version +enter
---to check npm :-open windows powershell + npm --version +enter
+--to check node :- open windows powershell or cmd + node --version +enter
+--to check npm :-open windows powershell or cmd + npm --version +enter
 
 2.Install Vs Code- check/select all the additional settings while installing this.
 
@@ -21,23 +21,20 @@ steps:-
 6.Go to Terminal in Vs Code:-
 
 PS E:\SCLR\ReactJS\ReactJs1PointO> npm install create-react-app
-
 or
-
 PS E:\SCLR\ReactJS\ReactJs1PointO>npm install create-react-app myapp
-
 or
-
 PS E:\SCLR\ReactJS\ReactJs1PointO> npx create-react-app myapp
 
 7.To start(http://localhost:3000/):-
+
 PS E:\SCLR\ReactJS\ReactJs1PointO\myapp> npm start
  or
 PS E:\SCLR\ReactJS\ReactJs1PointO\myapp> npm run start
 
 8.How to go to another folder in terminal :- cd myapp 
 
-9.
+9. You can also go to Node.js command prompt directly to run and create react application.
 
 10.
 
