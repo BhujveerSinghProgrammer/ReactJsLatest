@@ -47,7 +47,7 @@ Note:- 3 Simple steps to start with creation of react app:-
 
 ************************************************************************
 ************************************************************************
-==>1.to install all the dependencies or adding new package in your project use:-
+==>1.to install/adding new package in your project use:-
   just add anything in your application's "dependencies" -->package.json  like:-
   
 "web-vitals": "^2.1.4"
@@ -58,4 +58,12 @@ and run given command in terminal
 E:\SCLR\ReactJS\ReactJs1PointO\myapp>npm install
 
 
-==>2.
+==>2.words:-anonymous-gumnaam,enormous-big,semantic-meaningfull or arth
+==>3.in "web-vitals": "^2.1.4" what this cap suggest:- 
+if we use [npm install] then minor and patch update would happen automatically but not major changes would happpen automatically.
+
+patch:- 1 bug fix in package
+minor:-adding new feature to the package
+major:-updating version of the package going 1.0 to 2.0 like
+
+==>4.
