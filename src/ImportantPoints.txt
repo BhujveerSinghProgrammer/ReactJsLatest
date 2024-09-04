@@ -1,4 +1,5 @@
--->
+--> also check all the quizes on scalar platform to get interview questions.
+
 Codesandbox basics:-
 _______________________________________________
 

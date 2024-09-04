@@ -1,0 +1,10 @@
+
+==>1. devdependencies would not be bundled together only dependencies would be bundled.
+==>2. check size on https://bundlephobia.com/ for npm and packages you are installing(under package.json-->dependencies) in your application.
+==>3.use small size packages so that bundle size gets decrease. becoz when you open site its download time gets increase.
+==>4.and website would be slower.but after first time site automatically gets data from cache (browser caches java script automatically).
+==>5.webpack bundle this for us,we have react scripts which internely use web packs in order to bundle this together.
+
+
+==>1.to understand DOM in js:- https://www.w3schools.com/JS/js_htmldom_document.asp
+==>2.

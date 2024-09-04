@@ -1,0 +1,69 @@
+working with VS Code:-
+__________________________________
+steps:-
+1.Install Node js- npm will automatically installed- so that we can use js without browser.
+--to check node :- open windows powershell or cmd + node --version +enter
+--to check npm :-open windows powershell or cmd + npm --version +enter
+
+2.Install Vs Code- check/select all the additional settings while installing this.
+
+3.React Developer Tools -->its chrome extension,add this to the chrome.
+
+4.Go to any folder where you want to create application +right click + open with vs code
+
+5.Add some Important Extensions in Vs Code:- 
+1)Thunder Client --> for replacement of Postman-to test Api's.
+2)Live Server   --> to visualize static pages
+2)ES7 React/Redux/GraphQL/React-Native snippets --> for shortcut,time saving
+3)Bracket Pair Colorizer -->it shows where Brackets are closing,to better understanding
+
+6.Go to Terminal in Vs Code:-
+
+PS E:\SCLR\ReactJS\ReactJs1PointO> npm install create-react-app
+or
+PS E:\SCLR\ReactJS\ReactJs1PointO>npm install create-react-app myapp
+or
+PS E:\SCLR\ReactJS\ReactJs1PointO> npx create-react-app myapp
+
+7.To start(http://localhost:3000/):-
+
+PS E:\SCLR\ReactJS\ReactJs1PointO\myapp> npm start
+ or
+PS E:\SCLR\ReactJS\ReactJs1PointO\myapp> npm run start
+
+8.How to go to another folder in terminal :-  cd myapp 
+
+8.1 to back folder in terminal:-   cd ..
+
+9. You can also go to Node.js command prompt directly to run and create react application.
+*********************************************************************************************************
+*********************************************************************************************************
+Note:- 3 Simple steps to start with creation of react app:-
+1.check for node js in your system
+2.check for npm in your system
+3.go to Node.js command prompt or in vs code terminal
+4.use npx create-react-app nameofapp
+5.E:\SCLR\ReactJS\ReactJs1PointO\myapp> npm start or E:\SCLR\ReactJS\ReactJs1PointO\myapp> npm run start
+
+************************************************************************
+************************************************************************
+==>1.to install/adding new package in your project use:-
+  just add anything in your application's "dependencies" -->package.json  like:-
+  
+"web-vitals": "^2.1.4"
+"react-scripts": "5.0.1"
+
+and run given command in terminal
+
+E:\SCLR\ReactJS\ReactJs1PointO\myapp>npm install
+
+
+==>2.words:-anonymous-gumnaam,enormous-big,semantic-meaningfull or arth
+==>3.in "web-vitals": "^2.1.4" what this cap suggest:- 
+if we use [npm install] then minor and patch update would happen automatically but not major changes would happpen automatically.
+
+patch:- 1 bug fix in package
+minor:-adding new feature to the package
+major:-updating version of the package going 1.0 to 2.0 like
+
+==>4.
