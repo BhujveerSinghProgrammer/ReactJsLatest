@@ -22,7 +22,7 @@
 // react is a generic library which will be used in order to create components and create html
 // react dom is what would be used for your interaction of react with the DOM
 // react native
-// react native interact with your mobile app
+// react native interact with your mobile app,instead of   "react-dom": "^18.0.0" use react native for mobile applications and also for web applications.
 
 // abc();
 // <Abc />
