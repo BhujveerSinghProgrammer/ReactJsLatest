@@ -7,24 +7,3 @@
 
 ==>1.to understand DOM in js:- https://www.w3schools.com/JS/js_htmldom_document.asp
 ==>2.
-
-// for your react app to be up and running you need
-// one root element
-// in the root element the whole react app would be mounted
-
-// var a = document.createElement("div")  //DOM Example
-// document.appendChild(a);
-
-// react says that I need one root element
-// I will manipulate all the dom
-// I will create all the html elements and append it to the html
-
-// react is a generic library which will be used in order to create components and create html
-// react dom is what would be used for your interaction of react with the DOM
-// react native
-// react native interact with your mobile app,instead of   "react-dom": "^18.0.0" use react native for mobile applications and also for web applications.
-
-// abc();
-// <Abc />
-
-
